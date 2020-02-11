@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>java_project</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <module>algo</module>
+        <module>generics</module>
+        <module>functional_programming</module>
+        <module>concurrency</module>
+        <module>hacker_rank</module>
+        <module>hacker_earth</module>
+        <module>leet_code</module>
+        <module>data_structure</module>
+        <module>design_pattern</module>
+        <module>clean_code</module>
+        <module>exception_handling</module>
+        <module>code_wars</module>
+        <module>Functional Programming</module>
+        <module>coursera_courses</module>
+        <module>project_euler</module>
+    </modules>
+
+
+</project>

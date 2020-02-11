@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="leet_code" />
+        <module name="Functional Programming" />
+        <module name="coursera_courses" />
+        <module name="design_pattern" />
+        <module name="generics" />
+        <module name="algo" />
+        <module name="data_tructure" />
+        <module name="exception_handling" />
+        <module name="clean_code" />
+        <module name="hacker_earth" />
+        <module name="hacker_rank" />
+        <module name="project_euler" />
+        <module name="code_wars" />
+        <module name="concurrency" />
+        <module name="functionalProgramming" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="data_structure" target="1.5" />
+      <module name="functional_programming" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

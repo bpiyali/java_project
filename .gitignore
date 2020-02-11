@@ -1,0 +1,13 @@
+# Project exclude paths
+/algo/target/
+/clean_code/target/
+/code_wars/target/
+/concurrency/target/
+/design_pattern/target/
+/Functional Programming/target/
+/functional_programming/target/
+/generics/target/
+/hacker_earth/target/
+/hacker_rank/target/
+/leet_code/target/
+/target/
